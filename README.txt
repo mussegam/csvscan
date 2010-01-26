@@ -1,6 +1,8 @@
 = csvscan
 
-http://github.com/sandofsky/csvscan
+http://github.com/mussegam/csvscan
+
+Forked from sandofsky's csvscan to try to add ruby1.9 support
 
 == DESCRIPTION:
 
@@ -39,7 +41,7 @@ On a 10,000 line file:
 
 == INSTALL:
 
-* gem install sandofsky-csvscan --source http://gems.github.com
+* gem install mussegam-csvscan --source http://gems.github.com
 
 == LICENSE:
 

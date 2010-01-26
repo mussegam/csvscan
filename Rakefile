@@ -8,7 +8,7 @@ class CSVScan
 end
 
 Hoe.spec 'csvscan' do
-  developer('Ben Sandofsky', 'sandofsky@gmail.com')
+  developer('Javi Dolcet', 'austorm@gmail.com')
   spec_extras[:extensions] = "ext/csvscan/extconf.rb"
   clean_globs << "ext/csvscan/csvscan.*" << "ext/csvscan/*.o" << "ext/Makefile"
 end
